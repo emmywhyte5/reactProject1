@@ -9,7 +9,7 @@ function Header() {
            <ol className='flex gap-20 text-3xl font-normal'>
              <li>HOME</li>
              <li>BOOK SLOT</li>
-             <li>COMFIRMATION</li>
+             <li>CONFIRMATION</li>
            </ol>
        </section>
        <section  className='h-[80px] w-[10%] bg-green-500'></section>

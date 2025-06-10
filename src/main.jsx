@@ -5,10 +5,10 @@ import Home from './Home.jsx'
 import Form from './Form.jsx'
 import Header from './Header.jsx'
 
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-      <Header/>
-      <Home/>
+   <Form/>
    
   </StrictMode>,
 )
