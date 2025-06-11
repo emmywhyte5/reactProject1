@@ -23,7 +23,7 @@ function Form() {
 
            </div>
             <div className='h-[200px] bg-amber-700'></div>
-            <div className='h-[500px] bg-red-500 flex items-center justify-center'>
+            <div className='h-[500px] bg-white flex items-center justify-center'>
                <div className='h-[500px] w-[92%] bg-white'>
                  <section className='h-[50px] bg-black rounded-t-md'>
                    <ol className='flex gap-36 text-amber-50'>
@@ -146,8 +146,8 @@ function Form() {
               <section className='h-[70px] '><h1 className='text-2xl font-bold flex items-center justify-center'>WHY FLY WITH QATAR?</h1></section>
 
             </div>
-            <div className='h-[500px] bg-orange-400 flex items-center gap-8 justify-center'>
-               <section className='h-[500px] w-[30%] bg-white'>
+            <div className='h-[500px] bg-amber-100 flex items-center gap-8 justify-center'>
+               <section className='h-[500px] w-[30%] bg-white '>
                    <section className='h-[300px] bg-white bg-[url(QatarAirways.jpg)] bg-contain hi'></section>
                    <section className='h-[200px] w-[90%] bg-white'><h1><p className='text-2xl'>Innovation</p> <br />Founded in just 1993 ,Qatar Airways is fastest <br />growing airline in the history of commercial of aviation</h1></section>
                </section>
@@ -159,6 +159,12 @@ function Form() {
                    <section className='h-[300px] bg-amber-300 bg-[url(awards.jpeg)] bg-contain hi'></section>
                    <section className='h-[200px] w-[90%] bg-white'><h1><p  className='text-2xl'>Exclusivity</p>Qatar wold-class status has earned them <br />numerous awards.From spacious Business class <br />Cabin to  dine-on-demand 5-star dishes,travel in <br />style with Qatar.</h1></section>
                  </section>
+            </div>
+            <div className='h-[400px] bg-lime-600 gap-10 flex'>
+               <section className='h-[400px] w-[30%] bg-amber-300'></section>
+               <section className='h-[400px] w-[30%] bg-amber-300'></section>
+               <section className='h-[400px] w-[30%] bg-amber-300'></section>
+
             </div>
 
       </div>
