@@ -1,7 +1,7 @@
 import React,  { useState }  from 'react'
 
 
-function Form() {
+function BookSlot() {
    let [mover, setMover] = useState(true);
 
   function pv() {
@@ -234,4 +234,4 @@ function Form() {
   )
 }
 
-export default Form
+export default BookSlot
