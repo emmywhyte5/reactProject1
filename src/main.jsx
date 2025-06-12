@@ -12,7 +12,8 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
   
    <Form/>
-   
+   <Header/>
+   <Home/>
 
   </StrictMode>,
 )
