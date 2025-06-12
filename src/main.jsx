@@ -4,8 +4,10 @@ import './index.css'
 import { BrowserRouter,Routes,Route, Form } from 'react-router-dom'
 // import Header from './Header'
 import Home from './Home.jsx'
-import BookSlot from './BookSlot.jsx'
 import Header from './Header.jsx'
+import BookSlot from './BookSlot.jsx'
+
+
 
 
 createRoot(document.getElementById('root')).render(
@@ -20,5 +22,6 @@ createRoot(document.getElementById('root')).render(
  </Routes>
  </BrowserRouter>
    
+
   </StrictMode>,
 )
